@@ -1,4 +1,4 @@
-![Snakeanimation](https://github.com/Sr2006na/Sr2006na/blob/output/snake.svg)
+![s](https://github.com/Sr2006na/Sr2006na/blob/output/snake.svg)
 
 
 # Hi, I'm Sreenu giri kp! 👋
@@ -14,7 +14,9 @@ I am a first-year BCA student, beginning my academic journey with a strong curio
 </p>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sr2006na&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sr2006na&theme=vue-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&rank_icon=default" alt="GitHub stats Card" />
+</p>
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sr2006na&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" height="180"/>
