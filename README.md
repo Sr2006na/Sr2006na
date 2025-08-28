@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/Sr2006na/Sr2006na/blob/output/snake.svg)
+
+
 # Hi, I'm Sreenu giri kp! 👋
 
 I am a first-year BCA student, beginning my academic journey with a strong curiosity for technology. I am eager to learn and explore the vast world of computer applications, gaining knowledge step by step. Along the way, I look forward to discovering new ideas, developing practical skills, and sharing what I learn with others. My goal is to grow not only as a student but also as someone who can contribute positively to the tech community.
