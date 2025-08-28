@@ -14,9 +14,9 @@ I am a first-year BCA student, beginning my academic journey with a strong curio
 </p>
 
 
-  <p align="left">
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sr2006na&theme=vue-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&rank_icon=default" alt="GitHub stats Card" />
-</p>
+
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sr2006na&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" height="180"/>
