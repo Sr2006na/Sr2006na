@@ -15,8 +15,6 @@ I am a first-year BCA student, beginning my academic journey with a strong curio
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sr2006na&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" height="180"/>
-</p>
-
 
 
 ## 🚀 About Me
@@ -32,8 +30,7 @@ I am a first-year BCA student, beginning my academic journey with a strong curio
 
 ## 📬 Get in Touch
 
-- 🤝 [LinkedIn](https://www.linkedin.com/in/sreenugirikp)  
-- 📧 Email: **sreenugirikp123@gmail.com**  
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sreenugirikp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="sreenugirikp123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
 
 
  Let's connect and explore the fascinating world of technology together. 🚀
