@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/Sr2006na/Sr2006na/blob/output/snake.svg)
+![Snakeanimation](https://github.com/Sr2006na/Sr2006na/blob/output/snake.svg)
 
 
 # Hi, I'm Sreenu giri kp! 👋
