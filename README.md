@@ -15,11 +15,12 @@ I am a first-year BCA student, beginning my academic journey with a strong curio
 
 
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sr2006na&theme=vue-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&rank_icon=default" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sr2006na&theme=vue-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&rank_icon=default&disable_animations=false&cache_seconds=1800" alt="GitHub stats Card" />
 
 
+    
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sr2006na&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="Top Languages Card" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sr2006na&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" height="180"/>
 
 
 ## 🚀 About Me
