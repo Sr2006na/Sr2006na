@@ -1,4 +1,4 @@
-![s](https://github.com/Sr2006na/Sr2006na/blob/output/snake.svg)
+![Snake animation (dark mode)](https://github.com/Sr2006na/Sr2006na/blob/output/snake-dark.svg)
 
 
 # Hi, I'm Sreenu giri kp! 👋
