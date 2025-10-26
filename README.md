@@ -29,7 +29,7 @@ I am a first-year BCA student, beginning my academic journey with a strong curio
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c)](https://skillicons.dev)
 
  ## 🏆 Achievements
 
